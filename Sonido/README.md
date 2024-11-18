@@ -1,4 +1,4 @@
 # Sonido
 
-[Samples](samples,json)
+[Samples](samples.json)
 
