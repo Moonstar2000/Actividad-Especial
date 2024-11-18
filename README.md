@@ -1,4 +1,4 @@
 # Actividad-Especial
 
 
-!reslist "https://github.com/Moonstar2000/Actividad-Especial/blob/main/Sonido/samples.json"
++[Sound Samples/Samples de Sonido](Sounnd/README.md)
