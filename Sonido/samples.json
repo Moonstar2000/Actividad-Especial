@@ -1,12 +1,12 @@
 [
   
-{"url":"Aire.wav","type":"audio","bank":"sonido","n":1},
-{"url":"Grillos.wav","type":"audio","bank":"sonido","n":2},
-{"url":"Lluvia.wav","type":"audio","bank":"sonido","n":3},
-{"url":"Pajaritos.wav","type":"audio","bank":"sonido","n":4},
-{"url":"Ranas.wav","type":"audio","bank":"sonido","n":5},
-{"url":"olas.wav","type":"audio","bank":"sonido","n":6},
-{"url":"pollitos.wav","type":"audio","bank":"sonido","n":7},
-{"url":"Sonoro.wav","type":"audio","bank":"sonido","n":8}
+{"url":"Aire.wav","type":"audio","bank":"sonido","n":0},
+{"url":"Grillos.wav","type":"audio","bank":"sonido","n":1},
+{"url":"Lluvia.wav","type":"audio","bank":"sonido","n":2},
+{"url":"Pajaritos.wav","type":"audio","bank":"sonido","n":3},
+{"url":"Ranas.wav","type":"audio","bank":"sonido","n":4},
+{"url":"olas.wav","type":"audio","bank":"sonido","n":5},
+{"url":"pollitos.wav","type":"audio","bank":"sonido","n":6},
+{"url":"Sonoro.wav","type":"audio","bank":"sonido","n":7}
   
 ]
